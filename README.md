@@ -6,6 +6,5 @@ new architecture, file format, or debug platform.
 
 # Categories
 
-- [Architecture requests](https://github.com/rizinorg/ideas/labels/New Architecture)
-- [File format requests](https://github.com/rizinorg/ideas/labels/New File Format)
-
+- [Architecture requests](https://github.com/rizinorg/ideas/labels/New%20Architecture)
+- [File format requests](https://github.com/rizinorg/ideas/labels/New%20File%20Format)
