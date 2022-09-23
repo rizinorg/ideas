@@ -8,3 +8,4 @@ new architecture, file format, or debug platform.
 
 - [Architecture requests](https://github.com/rizinorg/ideas/labels/New%20Architecture)
 - [File format requests](https://github.com/rizinorg/ideas/labels/New%20File%20Format)
+- [New platform/OS support requests](https://github.com/rizinorg/ideas/labels/New%20Platform)
